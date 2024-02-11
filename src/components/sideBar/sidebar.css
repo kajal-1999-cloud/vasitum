@@ -1,0 +1,35 @@
+.sidebar{
+    width: 17%;
+    padding: 10px;
+}
+.flex{
+   display: flex;
+   justify-content: space-between;
+   /* align-items: center; */
+   /* gap: 10px; */
+   margin: 18px;
+
+}
+
+.logo img{
+    Width:143px;
+    Height:36.81px;
+    Top:-0px;
+    margin: 13px;
+ 
+ }
+.mainMenu{
+padding: 5px;
+
+}
+.flex p{
+    display: flex;
+    align-items: center;
+}
+img{
+    width:30px;
+    height:30px;
+}
+.active{
+    color:red;
+}
