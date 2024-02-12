@@ -21,7 +21,7 @@ function Dashboard() {
             <p style={{ color: '#3786F1' }}>4 active hiring</p>
           </div>
           <div className='card'style={{ background: "#FDEBF9"}}>
-            <h3>Available h3osition</h3>
+            <h3>Available position</h3>
             <h1>24</h1>
             <p style={{ color: '#EE61CF' }}>4 Department</p>
           </div>
